@@ -7,4 +7,5 @@ function checkprime(num){
 	if(prime==1){console.log('Prime')
 	else{console.log('No')}
 }
-checkprime(13)
+
+chekprime(7)
